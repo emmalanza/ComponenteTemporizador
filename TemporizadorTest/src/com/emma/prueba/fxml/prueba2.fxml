@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.emma.ComponenteTemporizador?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.emma.prueba.Controller">
+   <children>
+      <ComponenteTemporizador fx:id="temp" colorEnd="#d90bb9" colorStart="#1095c9" layoutX="168.0" layoutY="149.0" prefHeight="102.0" prefWidth="265.0" texto_fin="Adiós">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </ComponenteTemporizador>
+   </children>
+</AnchorPane>

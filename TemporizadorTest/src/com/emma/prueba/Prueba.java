@@ -4,6 +4,7 @@ import com.emma.FinCuentaAtras;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
@@ -20,12 +21,15 @@ public class Prueba extends Application {
         ComponenteTemporizador temp = new ComponenteTemporizador();
         temp.setTiempo(5);
         temp.setFont(new Font(40));
-        temp.addFinCuentaAtras(new FinCuentaAtras() {
+
+        temp.setTexto_fin("Adiós.");
+
+       /*temp.addFinCuentaAtras(new FinCuentaAtras() {
             @Override
             public void ejecuta() {
                 temp.setText("Fin de la cuenta atrás.");
             }
-        });
+        });*/
 
         temp.addFinCuentaAtras(new FinCuentaAtras() {
             @Override

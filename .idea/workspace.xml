@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Temporizador" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f03da9b-f565-404a-b4ab-6756204a0a4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temporizador.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemporizadorTest/TemporizadorTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemporizadorTest/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/FinCuentaAtras.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Temporizador/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/emma/ComponenteTemporizador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/emma/FinCuentaAtras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Prueba2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temporizador.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Temporizador.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Prueba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemporizadorTest/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/TemporizadorTest/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/com/emma/FinCuentaAtras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/FinCuentaAtras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TemporizadorTest/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/emma/ComponenteTemporizador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/emma/ComponenteTemporizador.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,20 +34,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WAXddkHWNbgdJ8lSwHS3gJkj3b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Prueba2">
     <configuration name="Prueba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.emma.prueba.Prueba" />
       <module name="TemporizadorTest" />
@@ -74,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Prueba2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emma.prueba.Prueba2" />
+      <module name="TemporizadorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emma.prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prueba2" />
         <item itemvalue="Application.Prueba" />
       </list>
     </recent_temporary>
@@ -91,6 +111,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578593461079</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;primer commit&quot;">
+      <created>1579105043528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579105043528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,11 +126,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;primer commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;primer commit&quot;" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
