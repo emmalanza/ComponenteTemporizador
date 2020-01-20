@@ -7,22 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f03da9b-f565-404a-b4ab-6756204a0a4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Prueba2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temporizador.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Temporizador.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/TemporizadorTest/src/com/emma/prueba/Prueba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemporizadorTest/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/TemporizadorTest/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/ComponenteTemporizador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/com/emma/FinCuentaAtras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/com/emma/FinCuentaAtras.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temporizador/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temporizador/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/com/emma/prueba/Prueba.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TemporizadorTest/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TemporizadorTest/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/emma/ComponenteTemporizador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/emma/ComponenteTemporizador.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
