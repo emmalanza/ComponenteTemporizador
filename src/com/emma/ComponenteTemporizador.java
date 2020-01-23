@@ -4,7 +4,6 @@ import javafx.beans.property.*;
 import javafx.scene.control.Label;
 import javafx.scene.paint.Color;
 import javafx.scene.paint.Paint;
-
 import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
